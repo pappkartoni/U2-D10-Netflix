@@ -7,9 +7,6 @@
 *,*::before, *::after {
     box-sizing: border-box;
 }
-:root {
-
-}
 body {
     background-color: #141414;
     font-family: netflix-sans;
