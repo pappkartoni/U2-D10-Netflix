@@ -11,6 +11,7 @@ body {
     background-color: #141414;
     font-family: netflix-sans;
     min-width: 548px;
+    overflow-x: hidden;
 }
 
 .navbar {
